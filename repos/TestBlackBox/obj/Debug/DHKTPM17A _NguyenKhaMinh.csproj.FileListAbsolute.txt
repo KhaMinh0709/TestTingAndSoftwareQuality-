@@ -1,0 +1,18 @@
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\dataUTlab03.csv
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\dataUTLab01.csv
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\TestBlackBox.dll
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\TestBlackBox.pdb
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\MethodLibrary.dll
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\obj\Debug\DHKTPM17A _NguyenKhaMinh.csproj.AssemblyReference.cache
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\obj\Debug\DHKTPM17A _NguyenKhaMinh.csproj.CoreCompileInputs.cache
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\obj\Debug\DHKTPM17.D2C47B80.Up2Date
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\obj\Debug\TestBlackBox.dll
+E:\năm 4\HK1\kiểm thử\repos\TestBlackBox\obj\Debug\TestBlackBox.pdb
